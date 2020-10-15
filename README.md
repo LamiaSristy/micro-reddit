@@ -23,4 +23,16 @@ Things you may want to cover:
 
 * ...
 
-## Author Details::
+## Bad Code
+ ![screenshot](./assets/badcodingpractice.JPG)
+
+
+## Author Details:
+
+
+👤 **Aye Daniel A*****
+
+- [Github](https://github.com/Alaska01)
+- [Twitter](https://twitter.com/AyeAsoo)
+- [Linkedin](https://www.linkedin.com/in/daniel-asoo-aye/)
+
