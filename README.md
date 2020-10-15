@@ -6,13 +6,11 @@ This project is an application similar to Reddit (called Micro-Reddit) where a u
 
 ## Build-With
 
--Ruby -v  2.7.1
+- Ruby -v  2.7.1
+- Rails -v 5.2.4.4
+- SQLite3
+- VScode
 
--Rails -v 5.2.4.4
-
--SQLite3
-
--VScode
 
 ## Getting Started
 
@@ -48,9 +46,10 @@ To get this project up and running locally, you must already have ruby and neces
 
 ## Acknowledgment
 The resources we have used to develop our project:
--[Odin-project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
--[Tutorialspoint](https://www.tutorialspoint.com/ruby-on-rails/rails-migrations.htm)
--[Guides](https://guides.rubyonrails.org/active_record_validations.html#length)
+
+- [Odin-project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
+- [Tutorialspoint](https://www.tutorialspoint.com/ruby-on-rails/rails-migrations.htm)
+- [Guides](https://guides.rubyonrails.org/active_record_validations.html#length)
 
 ## Show your support
 
