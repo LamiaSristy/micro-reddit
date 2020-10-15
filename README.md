@@ -2,12 +2,17 @@
 
 This project is an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
+![screenshot](app/assets/images/ss.png)
+
 ## Build-With
 
- -Ruby
- -Rails
- -SQLite3
- -VScode
+-Ruby -v  2.7.1
+
+-Rails -v 5.2.4.4
+
+-SQLite3
+
+-VScode
 
 ## Getting Started
 
@@ -40,6 +45,12 @@ To get this project up and running locally, you must already have ruby and neces
 - Twitter: [Twitter](https://twitter.com/AyeAsoo)
 - E-mail: <a href="mailto:aadaniel108@gmail.com?subject=Hello Daniel!">Email</a>  
 - Linkedin: [Linkedin](https://www.linkedin.com/in/daniel-asoo-aye/)
+
+## Acknowledgment
+The resources we have used to develop our project:
+-[Odin-project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
+-[Tutorialspoint](https://www.tutorialspoint.com/ruby-on-rails/rails-migrations.htm)
+-[Guides](https://guides.rubyonrails.org/active_record_validations.html#length)
 
 ## Show your support
 
